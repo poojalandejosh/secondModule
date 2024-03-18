@@ -12,4 +12,4 @@ let person = {
     id: 55,
   };
   person.firstName = "lllllll";
-  console.log('object is ..',person)
+  console.log('object is ...',person)
